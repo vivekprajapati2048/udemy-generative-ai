@@ -1,0 +1,14 @@
+bs4
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-groq
+langchain-core
+faiss-cpu
+fastapi
+uvicorn
+langserve
+sse_starlette
