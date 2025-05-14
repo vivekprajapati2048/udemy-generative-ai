@@ -7,8 +7,11 @@ langchain-text-splitters
 langchain-openai
 langchain-groq
 langchain-core
+langchain-huggingface
+langchain-chroma
 faiss-cpu
 fastapi
 uvicorn
 langserve
 sse_starlette
+transformers
