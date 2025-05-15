@@ -16,3 +16,4 @@ langserve
 sse_starlette
 transformers
 streamlit
+pypdf
