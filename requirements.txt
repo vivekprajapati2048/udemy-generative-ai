@@ -17,3 +17,5 @@ sse_starlette
 transformers
 streamlit
 pypdf
+arxiv
+wikipedia
