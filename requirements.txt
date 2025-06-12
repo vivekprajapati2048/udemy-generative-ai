@@ -35,3 +35,6 @@ yt_dlp==2023.11.14
 youtube-transcript-api==0.6.1
 sentence-transformers
 pinecone
+# neo4j==5.14
+langchain_experimental
+langchain_neo4j
