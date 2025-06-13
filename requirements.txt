@@ -38,3 +38,4 @@ pinecone
 # neo4j==5.14
 langchain_experimental
 langchain_neo4j
+lamini
