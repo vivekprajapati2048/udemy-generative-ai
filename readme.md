@@ -1,1 +1,1 @@
-# Udemy Course Notes
+# Generative AI Projects with LangChain
