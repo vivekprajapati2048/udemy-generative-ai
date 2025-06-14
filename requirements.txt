@@ -39,3 +39,6 @@ pinecone
 langchain_experimental
 langchain_neo4j
 lamini
+langsmith
+langgraph
+cassio
